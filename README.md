@@ -1,10 +1,9 @@
-This repo contains a Markdown version of the book *Warez The Infrastructure and Aesthetics of Piracy* by Martin Paul Eve. It was published in 2021 and was released under the Creative Commons BY-NC-SA 4.0 International license, allowing it to be remixed, including into Markdown.
+This repo contains a Markdown version of the book *Warez: The Infrastructure and Aesthetics of Piracy* by Martin Paul Eve. It was published in 2021 and was released under the [Creative Commons BY-NC-SA 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/), allowing it to be remixed, including into Markdown.
 
-![Book Cover](Book/images/book-cover.jpg)
+![Book title in ASCII art lettings](Book/images/ch-0-book-title.png)
 
-# Warez
-## The Infrastructure and Aesthetics of Piracy
-## By Martin Paul Eve
+# Warez: The Infrastructure and Aesthetics of Piracy
+## Martin Paul Eve
 
 * [About this Markdown Edition](Book/about.md)
 * [Preface](Book/0-Preface.md)
