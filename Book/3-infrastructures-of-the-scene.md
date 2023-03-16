@@ -227,3 +227,104 @@ If the alternative reality game of the Scene did not have topsites, there would 
 Hence, technology in the Scene, while nonetheless being core to the illicit activities, is there to facilitate social interaction and play. We cannot understand the Scene purely in terms of its technologies. We need to comprehend the technologies’ purposes in order to grasp their role within the overall function of the Scene.
 
 It is to this functional, organizational element to which the next chapter is devoted. Here I turn to the organizational principles that govern the activities of releasing and racing warez on topsites. This will cover how the Scene’s organization can be conceptualized, examining Scene standards and rules, the principles of dupes and dupechecking, the roles of nukes and nukers, and the interaction between local site rules and Scenewide standard rules.
+
+## Footnotes
+
+[^1]: Susan Leigh Star, “Th e Ethnography of Infrastructure,” American Behavioral Scientist 43, no. 3 (1999): 377.
+[^2]: All references ibid.
+[^3]: For an example of site name abbreviations see CWS, “Courier Weektop ScoreCard 001 (cws001.txt),” February 9, 1998, DeFacto2; TWH, “The Wolves House Topsite (TWH-the.wolves.house.1999.12.30.nfo),” December 30, 1999, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^4]: SLR, “The Cellar Topsite (SLR-the.cellar.1998.11.08.nfo),” November 8, 1998, DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^5]: “Topsite Rules,” ReScene, 2020, http://rescene.wikidot.com/topsiterules#toc4.
+[^6]: Andrew Sockanathan, “Digital Desire and Recorded Music: OiNK, Mnemotechnics and the Private BitTorrent Architecture” (PhD diss., Goldsmiths, University of London, 2011), 175–76; Patryk Wasiak, “Telephone Networks, BBSes, and the Emergence of the Transnational ‘Warez Scene’,” History and Technology 35, no. 2 (2019): 177–94.
+[^7]: Fred Turner, “Where the Counterculture Met the New Economy: The WELL and the Origins of Virtual Community,” Technology and Culture 46, no. 3 (2005): 485–512.
+[^8]: “International Scenes,” Phrack Magazine, January 9, 1996, http://phrack.org/issues/65/15.html.
+[^9]: Douglas Thomas, Hacker Culture (Minneapolis: University of Minnesota Press, 2002), 118.
+[^10]: Wasiak, “Telephone Networks, BBSes, and the Emergence of the Transnational ‘Warez Scene’.”
+[^11]: Ben Garrett, “Online Software Piracy of the Last Millennium,” April 27, 2004, 4, DeFacto2, http://www.defacto2.net/file/download/a53981.
+[^12]: See, for instance, Wasiak, “Telephone Networks, BBSes, and the Emergence of the Transnational ‘Warez Scene’.”
+[^13]: Garrett, “Online Software Piracy of the Last Millennium,” 4.
+[^14]: Ibid.
+[^15]: Some servers share addresses and use translation technologies such as Network Address Translation (NAT) to route the packet to the correct machine on a local network, but for the purposes of simple explanation, the generalization that “every machine on the internet has an IP address” is fine.
+[^16]: The address that I use as an example here is in a reserved range for local networks. That is, the 192 range that I here use as an example can in reality only be used for local addresses and not on the global internet. Another example of a reserved IPv4 address is 127.0.0.1, the address that a computer can always use to refer to itself.
+[^17]: A.K. Bhushan, “File Transfer Protocol,” Internet Engineering Task Force, April 16, 1971, https://tools.ietf.org/html/rfc114.
+[^18]: Catalin Cimpanu, “Chrome 87 Released with Fix for NAT Slipstream Attacks, Broader FTP Deprecation,” ZDNet, November 17, 2020, https://www.zdnet.com/article/chrome-87-released-with-fix-for-nat-slipstream-attacksbroader-ftp-deprecation/.
+[^19]: “A Day in the Life of a Warez Broker,” Phrack Magazine, 1995, http://phrack.org/issues/47/20.html.
+[^20]: For instance, see lester, “The Art of Good Trading,” Netmonkey Weekly Report (nwr28.txt), December 22, 1998, DeFacto2.
+[^21]: See Lord Rameses, “Interview with hodd of VOLiTiON,” Courier Weektop Scorecard (CwS-116.txt), September 3, 2000, DeFacto2; Lord Rameses, “Interview with Seraph of XCRYPT,” Courier Weektop Scorecard (CwS-118.txt), September 17, 2000, DeFacto2.
+[^22]: Steven J. Lunt, “FTP Security Extensions,” Internet Engineering Task Force, October 1997, https://tools.ietf.org/html/rfc2228. See also greyline, “glftpd-LNX-2.04_1.0.1e-glFTPD TLS README (2+deb7u3_x86_docs/README.TLS.txt),” mewbies.com, 2014, http://mewbies.com/glftpd-LNX2.04_1.0.1e-2+deb7u3_x86_docs/README.TLS.txt.
+[^23]: For an instance of mistaken identity using the ident protocol, see Rebel Chicken, “That Wasn’t You?” Reality Check Network (RCN-20.txt), 1996, DeFacto2; Brian Baskin et al., Netcat Power Tools, ed. Jan Kanclirz (Burlington: Syngress Publishing, Inc, 2008), 119.
+[^24]: skimp, “Interview with Redbone of RTS,” Courier Weektop Scorecard (CwS-130.txt), December 16, 2000, DeFacto2.
+[^25]: greyline, “glFTPD Configuration File Examples (glftpd-LNX-2.04_1.0.1e2+deb7u3_x86_docs/glftpd.conf-EXAMPLES.txt),” mewbies.com, 2014, http://mewbies.com/glftpd-LNX-2.04_1.0.1e-2+deb7u3_x86_docs/glftpd.conf-EXAMPLES.txt.
+[^26]: Site.Info.Leaker.READ.NFO.Updated-iND (screamia.updated.nfo),” n.d., DeFacto2, warez-scene-notices-2006-2010. 
+[^27]: Ibid.
+[^28]: “Scene.Ban.SCR.and.RiDERz.Leader.READNFO-iND (Scene.Ban.SCR.and.RiDERz.Leader.READNFO-iND.nfo),” n.d., DeFacto2, warez-scenenotices-2006-2010; “Scene.Notice.FiNaLe (finale.nfo),” n.d., DeFacto2, warez-scene-notices-2006-2010.
+[^29]: “Security.Warning.take.note.ppl-BwaRe (security.warning.take.note.pplbware.nfo),” n.d., DeFacto2, warez-scene-notices-2006-2010.
+[^30]: Paul Craig, Software Piracy Exposed (Rockland: Syngress, 2005), 111.
+[^31]: LS, “SCENE NEWS,” Courier Weektop Scorecard (CwS-102.txt), June 3, 2000, DeFacto2.
+[^32]: ndetroit, “ndetroit’s sites and stats section,” Netmonkey Weekly Report (nwr47.txt), May 11, 1999, DeFacto2.
+[^33]: Saint Tok, “Interview with The Crazy Little Punk,” DeFacto2 (df2-02.txt), February 1997, DeFacto2.
+[^34]: glftpd, “Yet Another Traffic Bouncer,” Github, 2020, https://github.com/glftpd/yatb.
+[^35]: lester, “Which Ftpd Is Right for You?” Netmonkey Weekly Report (Nwr36.Txt), February 22, 1999.
+[^36]: There is brief coverage of the history of Scene daemons in Alf Rehn, “Electronic Potlatch: A Study on New Technologies and Primitive Economic Behaviors” (PhD, Royal Institute of Technology, Stockholm, 2001), 107.
+[^37]: lester, “Which Ftpd Is Right for You?”
+[^38]: Ibid.
+[^39]: NKS, “Narkos Topsite (NKS-narkos.XXXX.XX.00.nfo),” n.d., DeFacto2, warez.scene.nfo.collection.v1.0.24351.shroo.ms.zip.
+[^40]: Karen Scarfone, Wayne Jansen, and Miles Tracy, Guide to General Server Security: Recommendations of the National Institute of Standards and Technology (Gaithersburg: National Institute of Standards and Technology, 2008).
+[^41]: Eric S. Raymond, The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary (Cambridge: O’Reilly Media, 2001), 30.
+[^42]: lester, “Which Ftpd Is Right for You?”
+[^43]: Ibid.
+[^44]: VERTEX, “1000 Password Plus v1.1.0 (vertex.nfo),” November 1, 2007, DeFacto2.
+[^45]: “Glftpd: Security Vulnerabilities,” CVE Details, November 16, 2020, https://www.cvedetails.com/vulnerability-list/vendor_id-346/Glftpd.html.
+[^46]: Ibid.
+[^47]: Ibid. 
+[^48]: ndetroit, “The Truth about GLFTPD,” Netmonkey Weekly Report (nwr39.txt), March 17, 1999, DeFacto2.
+[^49]: lester, “Stories from the Watercooler,” Netmonkey Weekly Report (nwr47.txt), May 11, 1999, DeFacto2. 
+[^50]: Ibid.
+[^51]: Ibid.
+[^52]: lester, “Which Ftpd Is Right for You?”
+[^53]: Ibid. 
+[^54]: Ibid.
+[^55]: Ibid.
+[^56]: Also analysed by Rehn, “Electronic Potlatch,” 132.
+[^57]: Anthony Bale, “Introduction,” in The Cambridge Companion to the Literature of the Crusades, ed. Anthony Bale (Cambridge: Cambridge University Press, 2018), 1–8.
+[^58]: [S]peedy, “What Was the Best Site of Alltime?” Netmonkey Weekly Report (nwr-19.txt), October 5, 1998, DeFacto2.
+[^59]: See, for instance, Amy S. Kaufman and Paul B. Sturtevant, The Devil’s Historians: How Modern Extremists Abuse the Medieval Past (Toronto: University of Toronto Press, 2020); Rory MacLellan, “Far-Right Appropriations of the Medieval Military Orders,” The Mediaeval Journal 9, no. 1 (2019): 175–98; Catherine E. Karkov, Anna Kłosowska, and Vincent W.J. van Gerven Oei, eds., Disturbing Times: Medieval Pasts, Reimagined Futures (Earth: punctum books, 2020).
+[^60]: Sierra Lomuto, “White Nationalism and the Ethics of Medieval Studies,” In the Middle, December 5, 2016, https://www.inthemedievalmiddle.com/2016/12/white-nationalism-and-ethics-of.html.
+[^61]: Rehn, “Electronic Potlatch,” 82.
+[^62]: ndetroit, “The Scene News,” Netmonkey Weekly Report (nwr55.txt), August 2, 1999, DeFacto2.
+[^63]: LS, “CWS News,” Courier Weektop Scorecard (CWS-80.txt), January 1, 1999, DeFacto2.
+[^64]: “Site.Security.READNFO-acksyn (Site.Security.for.Users.Windows.XP.1.3acksyn.nfo),” n.d., DeFacto2, warez-scene-notices-2006-2010.
+[^65]: “About,” psyBNC, 2008, https://psybnc.org/about.html.
+[^66]: “SCENE QUOTES,” Ketchup (ketchup_issue_19-2003.nfo), April 2003, DeFacto2.
+[^67]: “RELEASES OF THiS WEEK,” The Marshall Mussolini Show (tmms_issue_171-2006_19.nfo), April 2006, DeFacto2.
+[^68]: This information is deduced by the site from the associated SFV file, which provides checksums and a file list, and from the ID3 metatag information embedded in the music files themselves.
+[^69]: Craig, Software Piracy Exposed, 122.
+[^70]: “Busted.allstarz.net.logs (Logs_Mandmore_4.txt),” n.d., DeFacto2, warezscene-notices-2006-2010.
+[^71]: Rehn, “Electronic Potlatch,” 125.
+[^72]: David McCandless, “Warez Wars,” Wired, April 1, 1997, https://www.wired.com/1997/04/ff-warez/; “LAMURGH QUOTES,” The Marshall Mussolini Show (tmms_issue_190-2006_38.nfo), September 24, 2006, DeFacto2.
+[^73]: “The truth about depax (xdd22245.nfo),” n.d., DeFacto2.
+[^74]: See, for instance ndetroit and lester, “Interview with metaray,” Netmonkey Weekly Report (nwr56.txt), September 8, 1999, DeFacto2.
+[^75]: “Interview with raanu (‘Interviewk’),” The Marshall Mussolini Show (tmms_issue_082-2004_33.nfo), August 2004, DeFacto2.
+[^76]: “LAMURGH QUOTES,” The Marshall Mussolini Show (tmms_issue_082-2004_33.nfo), August 2004, DeFacto2.
+[^77]: RiSC, “Guidelines (risc.guidelines.txt),” n.d., DeFacto2.
+[^78]: Ibid.
+[^79]: RiSC, “Ethics (risc.ethics.txt),” n.d, DeFacto2.
+[^80]: “iSSUE FiFTY EiGHT,” The Marshall Mussolini Show (tmms_issue_124-2005_23.nfo), June 2005, DeFacto2.
+[^81]: “LAMURGH QUOTES,” The Marshall Mussolini Show (tmms_issue_174-2006_22.nfo), June 2006, DeFacto2.
+[^82]: “RELEASES OF THiS WEEK,” The Marshall Mussolini Show (tmms_issue_293-2008_36.nfo), September 2008, DeFacto2.
+[^83]: For more on quota vs. leech accounts see Justin Keery, “Special Report on Electronic Gifts: Teenage Pirates and the Junior,” The Independent, December 11, 1992, https://www.independent.co.uk/news/science/specialreport-on-electronic-gifts-teenage-pirates-and-the-junior-underworldparents-should-know-that-children-can-buy-or-sell-illegal-copies-of-video-games-and-sex-writes-justin-keery-1562928.html.
+[^84]: “LAMURGH QUOTES,” The Marshall Mussolini Show (tmms_issue_563-2013_44.nfo), November 2013, DeFacto2.
+[^85]: Jimmy Maher, The Future Was Here: The Commodore Amiga (Cambridge: MIT Press, 2012), 182.
+[^86]: “LAMURGH QUOTES,” The Marshall Mussolini Show (tmms_issue_394-2010_32.nfo), July 2010, DeFacto2.
+[^87]: Paul J. McNultey, “Warez Leader Sentenced to 46 Months,” US Department of Justice, May 17, 2002, https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/sankusSent.htm.
+[^88]: Gregor Urbas, “Cross-National Investigation and Prosecution of Intellectual Property Crimes: The Example of ‘Operation Buccaneer’,” Crime, Law and Social Change 46, nos. 4–5 (December 2006): 209.
+[^89]: Jimmy Maher, “A Pirate’s Life for Me, Part 2: The Scene,” The Digital Antiquarian, January 1, 2016, https://www.filfre.net/2016/01/a-pirates-lifefor-me-part-2-the-scene/.
+[^90]: Maher, The Future Was Here, 182.
+[^91]: Oliver Conolly and Bashshar Haydar, “The Good, The Bad and The Funny,” The Monist 88, no. 1 (2005): 121–34.
+[^92]: Manuel Perea, Jon Andoni Duñabeitia, and Manuel Carreiras, “R34D1NG W0RD5 W1TH NUMB3R5,” Journal of Experimental Psychology: Human Perception and Performance 34, no. 1 (2008): 237.
+[^93]: Sockanathan, “Digital Desire and Recorded Music,” 181; Tamás Polgár, Freax: The Brief History of the Computer Demoscene (Winnenden: CWSVerlag, 2008), 70.
+[^94]: Maher, The Future Was Here, 182.
+[^95]: Bruce Sterling, The Hacker Crackdown: Law and Disorder on the Electronic Frontier (New York: Bantam Books, 1992), 85.
+[^96]: Perea, Duñabeitia, and Carreiras, “R34D1NG W0RD5 W1TH NUMB3R5,” 240.
+[^97]: dennison, “DENNISON’S GAME REVIEW,” Netmonkey Weekly Report (nwr78.txt), March 29, 2000, DeFacto2.
+[^98]: “stats,” The Marshall Mussolini Show (tmms_issue_105-2005_04.nfo), January 2005, DeFacto2.
