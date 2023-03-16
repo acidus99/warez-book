@@ -2,7 +2,7 @@
 
 # About this Markdown Edition
 
-*Warez The Infrastructure and Aesthetics of Piracy* was written by Martin Paul Eve 
+*Warez: The Infrastructure and Aesthetics of Piracy* was written by Martin Paul Eve 
 
 It was first published in 2021 by [punctum books](https://punctumbooks.com), a non-for-profit public benefit corporation. It was published both in print, as a a PDF using the Creative Commons BY-NC-SA 4.0 International license.
 
@@ -16,7 +16,7 @@ Specifically I:
 * Moved all footnotes to the end of each chapter
 * Converted footnotes into [Github Flavored Markdown Footnotes](https://docs.github.com/en/enterprise-cloud@latest/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes)
 * Extracted high resolution images from the PDF
-* Converted block quotes, lists, and pre-formatted text into the Markdown equivlent, where appropriate.
+* Converted block quotes, lists, and pre-formatted text into the Markdown equivalent, where appropriate.
 
 ## What's Missing
 
