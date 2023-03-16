@@ -223,17 +223,7 @@ The crafts and skills of the Scene are also what make studies like this possible
 
 ## Footnotes
 
-[^115]: Hall, Pirate Philosophy, xiv.
-[^116]: Ibid., 140.
-[^117]: Virginia Crisp, Film Distribution in the Digital Age: Pirates and Professionals (London: Palgrave Macmillan, 2017), 105–6.
-[^118]: John Gantz and Jack B. Rochester, Pirates of the Digital Millennium: How the Intellectual Property Wars Damage Our Personal Freedoms, Our Jobs, and the World Economy (Upper Saddle River: Prentice Hall, 2005), 88.
-[^119]: There are a few sporadic mentions of Scene activities in this book but for the most part they go unmentioned. Ibid., 211.
-[^120]: Sigi Goode and Sam Cruise, “What Motivates Software Crackers?” Journal of Business Ethics 65, no. 2 (May 2006): 174.
-[^121]: David Tetzlaff, “Yo-Ho-Ho and a Server of Warez,” in The World Wide Web and Contemporary Cultural Theory: Magic, Metaphor, Power, eds. Andrew Herman and Thomas Swiss (New York: Routledge, 2000), 107.
-[^122]: Huizing and Wal, “Explaining the Rise and Fall of the Warez MP3 Scene.”
-[^123]: Goldman, “Warez Trading and Criminal Copyright Infringement,” 25.
-[^124]: The tell-tale sign of a topsite on campus is short, sporadic bursts of high-speed data transfers both incoming and outgoing from a limited subset of IP addresses. However, as bandwidth capacity has increased and P2P networks have become increasingly common, in the period between that covered by the documentation to which I have access and the contemporary Warez Scene, it is not clear whether or not such sites have become harder to detect.
-[^1]: For more, see James Meese, “Th e Pirate Imaginary and the Potential of the Authorial Pirate,” in Piracy: Leakages from Modernity, eds. Martin Fredriksson and James Arvanitakis (Sacramento: Litwin Books, 2014), 19–38.
+[^1]: For more, see James Meese, “The Pirate Imaginary and the Potential of the Authorial Pirate,” in Piracy: Leakages from Modernity, eds. Martin Fredriksson and James Arvanitakis (Sacramento: Litwin Books, 2014), 19–38.
 [^2]: United Kingdom, “Theft Act 1968,” http://www.legislation.gov.uk/ukpga/1968/60/crossheading/definition-of-theft.
 [^3]: I have previously covered this topic in a similar fashion in Martin Paul Eve, Password (New York: Bloomsbury Academic, 2016), 84–85.
 [^4]: For more on this, see Matthew Yglesias, “Piracy Is a Form of Theft, and Copyright Infringement Is Neither,” Slate Magazine, December 15, 2011, https://slate.com/business/2011/12/piracy-is-a-form-of-theft-and-copyright-infringement-is-neither.html, and Michał Krawczyk et al., “‘Piracy Is Not Theft!’ Is It Just Students Who Think So?” Journal of Behavior and Experimental Economics 54 (2015): 32–39.
@@ -346,3 +336,13 @@ The crafts and skills of the Scene are also what make studies like this possible
 [^112]: Ibid.
 [^113]: “Pub-Crackin 101,” PC-FXP, http://pc-fxp.tripod.com/pc101.htm.
 [^114]: Bliendbos, “Zijn hier ook nog ouwe fxp-ers ?,” FOK!forum, November 19, 2016, https://forum.fok.nl/topic/1831163/1/999.
+[^115]: Hall, Pirate Philosophy, xiv.
+[^116]: Ibid., 140.
+[^117]: Virginia Crisp, Film Distribution in the Digital Age: Pirates and Professionals (London: Palgrave Macmillan, 2017), 105–6.
+[^118]: John Gantz and Jack B. Rochester, Pirates of the Digital Millennium: How the Intellectual Property Wars Damage Our Personal Freedoms, Our Jobs, and the World Economy (Upper Saddle River: Prentice Hall, 2005), 88.
+[^119]: There are a few sporadic mentions of Scene activities in this book but for the most part they go unmentioned. Ibid., 211.
+[^120]: Sigi Goode and Sam Cruise, “What Motivates Software Crackers?” Journal of Business Ethics 65, no. 2 (May 2006): 174.
+[^121]: David Tetzlaff, “Yo-Ho-Ho and a Server of Warez,” in The World Wide Web and Contemporary Cultural Theory: Magic, Metaphor, Power, eds. Andrew Herman and Thomas Swiss (New York: Routledge, 2000), 107.
+[^122]: Huizing and Wal, “Explaining the Rise and Fall of the Warez MP3 Scene.”
+[^123]: Goldman, “Warez Trading and Criminal Copyright Infringement,” 25.
+[^124]: The tell-tale sign of a topsite on campus is short, sporadic bursts of high-speed data transfers both incoming and outgoing from a limited subset of IP addresses. However, as bandwidth capacity has increased and P2P networks have become increasingly common, in the period between that covered by the documentation to which I have access and the contemporary Warez Scene, it is not clear whether or not such sites have become harder to detect.
