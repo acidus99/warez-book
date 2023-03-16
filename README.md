@@ -9,3 +9,5 @@ This repo contains a Markdown version of the book *Warez: The Infrastructure and
 * [Preface](Book/0-Preface.md)
 * [1. Original Pirate Material](Book/1-original-pirate-material.md)
 * [2. Setting the Scene](Book/2-setting-the-scene.md)
+* [3. Infrastructures of the Scene](Book/3-infrastructures-of-the-scene.md)
+* [4. Organization](Book/4-organization.md)
