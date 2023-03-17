@@ -71,7 +71,9 @@ Throughout this book, the terms “Warez Scene” and “the Scene” are capita
 
 ## Glossary
 
-* **0day**. Refers to the most bleeding-edge access to pirate releases. Its derivation is that access comes “0 days” since its release.Addline. The command that will add a user to a topsite. This command contains the user’s Internet Protocol (IP) details, ident mask, and other security features.
+* **0day**. Refers to the most bleeding-edge access to pirate releases. Its derivation is that access comes “0 days” since its release.
+
+* **Addline**. The command that will add a user to a topsite. This command contains the user’s Internet Protocol (IP) details, ident mask, and other security features.
 
 * **Affiliate**. An arrangement whereby a release group is associated with a topsite and “pres” its releases on that site. It can also refer to the affiliation of courier groups with a site.
 
