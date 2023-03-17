@@ -6,7 +6,7 @@ This repo contains a Markdown version of the book *Warez: The Infrastructure and
 ## Martin Paul Eve
 
 * [About this Markdown Edition](Book/about.md)
-* [Preface](Book/0-Preface.md)
+* [Preface](Book/0%20-%20Preface.md)
 * [1. Original Pirate Material](Book/1-original-pirate-material.md)
 * [2. Setting the Scene](Book/2-setting-the-scene.md)
 * [3. Infrastructures of the Scene](Book/3-infrastructures-of-the-scene.md)
