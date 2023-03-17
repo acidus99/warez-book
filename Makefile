@@ -18,7 +18,8 @@ gemtext: images
 	@echo "Converting to Gemtext"
 # convert the footnotes
 	@perl -i -n -p -e 's/^\[\^(\d+)\]\:\s/* $$1. /' output/*.md 
-	
+# burn HTML tables into preformatted text tables
+	@dotnet run --project ../TableBurner/ output/*.md
 	@md2gemini --write --dir output/ --frontmatter --img-tag='' --links images-only output/*.md
 	@rm output/*.md
 # md2gemini annoyingly adds CRLF, regardless of platform
