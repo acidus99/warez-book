@@ -2,8 +2,6 @@
 
 # Takedowns
 
-# Chapter 6# Takedowns
-
 One of the defining features of the Warez Scene is that the game is illegal, although many participants do not consider this most of the time. While the “motivations of warez traders may vary” and “pure profit is not the sole or even dominant consideration for many,” there is, as Gregory Urbas writes, “a widely-shared conception of warez groups, both by themselves and more generally within the online community, as not really engaged in criminal exploits at all, but rather operating on the fringes of officialdom or the corporate world by pirating expensive soft ware and making it freely — or at least inexpensively — available to others.”[^1] Unfortunately, this belief is misplaced as the many lawenforcement raids of pirate groups have shown.
 
 In this chapter, I detail the major raids conducted against the Scene since the millennium. Specifically, I turn to Operation Cyber Strike and associated early raids, Operation Buccaneer,
