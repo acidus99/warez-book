@@ -137,7 +137,7 @@ Throughout this book, the terms “Warez Scene” and “the Scene” are capita
 
 * **Race**. The competitive transfer of releases between topsites by couriers. The goal is to earn credits and to score highly enough to retain one’s account on the site. Statistics from this contribute to the weektop scorecard.
 
-* **RAID**. A Redundant Array of Independent Disks. This is a storage schema that makes additional copies of data locally, spread across many different hard-disk drives (“striping”), in order to protect against the risk of catastrophic drive failure and data loss. Topsites use RAID to protect their archives.\
+* **RAID**. A Redundant Array of Independent Disks. This is a storage schema that makes additional copies of data locally, spread across many different hard-disk drives (“striping”), in order to protect against the risk of catastrophic drive failure and data loss. Topsites use RAID to protect their archives.
 
 * **Release**. A pirate artifact, be it music, movies, software, games, etc.
 
